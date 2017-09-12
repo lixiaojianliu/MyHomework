@@ -1,0 +1,4 @@
+﻿  动态扩展内存.cpp
+c:\users\jan\documents\visual studio 2015\projects\动态扩展内存\动态扩展内存\cmemextend.h(37): warning C4018: “>”: 有符号/无符号不匹配
+  动态扩展内存.vcxproj -> c:\users\jan\documents\visual studio 2015\Projects\动态扩展内存\Debug\动态扩展内存.exe
+  动态扩展内存.vcxproj -> c:\users\jan\documents\visual studio 2015\Projects\动态扩展内存\Debug\动态扩展内存.pdb (Full PDB)
